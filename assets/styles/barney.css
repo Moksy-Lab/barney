@@ -66,8 +66,12 @@
 .aboutd1e3f52aae36e7047 .btn-outline-secondary:not(:disabled):not(.disabled):active
 {
     background-color: var(--primary-Color);
-    color: var(--primary-Color);
+    color: var(--white-Color);
     font-weight: var(--button-font-weight);
+    border: none;
+}
+.aboutd1e3f52aae36e7047 .form-control:focus{
+    border: none;
 }
 /*aboutab8dfbbd4bed*/
 .aboutab8dfbbd4bed .Explore{

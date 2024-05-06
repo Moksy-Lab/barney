@@ -73,7 +73,13 @@
 .aboutd1e3f52aae36e7047 .form-control:focus{
     border: none;
 }
+.aboutd1e3f52aae36e7047 .jumbotron {
+    padding: var(--jumbotron-padding);
+}
 /*aboutab8dfbbd4bed*/
+.aboutab8dfbbd4bed{
+    padding: var(--section-padding);
+}
 .aboutab8dfbbd4bed .Explore{
     font-weight: var(--button-font-weight);
     background-color: var(--primary-Color);
@@ -87,6 +93,12 @@
     font-size: var(--paragraph);
 }
 /*fayete8bna5e4lc*/
+.fayete8bna5e4lc{
+    padding: var(--section-padding);
+}
+.fayete8bna5e4lc .fdb-block{
+    padding: 0rem 0;
+}
 .fayete8bna5e4lc .fdb-block .fdb-box{
     padding: 1.75rem 2.5rem;
 }
